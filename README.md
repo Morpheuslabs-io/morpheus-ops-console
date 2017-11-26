@@ -4,7 +4,7 @@ The Operations console aggregates the operational activities required to manage 
 
 ## Functional Principles
 Provide access integration to:
-  -Monitoring capabilities for Blockchain network that includes health status, block activities, log files, etc
-  -Membership management capabilities of the Blockchain network
-  -Self-provisioning capabilities for the Blockchain network nodes
-  -Auditing capabilities of the Blockchain network
+  - Monitoring capabilities for Blockchain network that includes health status, block activities, log files, etc
+  - Membership management capabilities of the Blockchain network
+  - Self-provisioning capabilities for the Blockchain network nodes
+  - Auditing capabilities of the Blockchain network
