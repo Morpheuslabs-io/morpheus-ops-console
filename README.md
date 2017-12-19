@@ -1,5 +1,5 @@
 
-[![Morpheus Logo](https://media.licdn.com/mpr/mpr/shrink_200_200/AAIA_wDGAAAAAQAAAAAAAAv9AAAAJDBhZWVmYmI2LWEwOTAtNGU4Ny1iNjhmLThjMjUxODE4NjcyOQ.png)](http://morpheuslabs.io/)
+[![Morpheus Logo](https://avatars1.githubusercontent.com/u/34614083?s=200&amp;v=4)](http://morpheuslabs.io/)
 # Morpheus Labs
 
 
