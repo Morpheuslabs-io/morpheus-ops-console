@@ -15,7 +15,7 @@ Provide access integration to:
   
 ## Architecture Overview
 
-[!]
+![Operation_Console_Architecture] (./img/ML-OperationConsole-Architecture.jpg)
   
 ## Blockchain Networks
 
