@@ -13,6 +13,10 @@ Provide access integration to:
   - Self-provisioning capabilities for the Blockchain network nodes
   - Auditing capabilities of the Blockchain network
   
+## Architecture Overview
+
+[!]
+  
 ## Blockchain Networks
 
 The blockchain networks to be suppoted for first release of ML BPaaS are: Ethereum, HyperLedger Fabric, NEM and MultiChain.
