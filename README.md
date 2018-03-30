@@ -35,6 +35,7 @@ The following APIs will be used by the Blockchain Operation Console.
 
 ### NEM
 
+NEM API references: https://nemlibrary.com/documentation/architecture/
 
 
 ### Multichain
