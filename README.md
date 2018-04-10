@@ -23,15 +23,16 @@ The blockchain networks to be suppoted for first release of ML BPaaS are: Ethere
 
 ## APIs and SDK of Blockchain Networks
 
-The following APIs will be used by the Blockchain Operation Console.
 
+The following APIs will be used by the Blockchain Operation Console.
 ### Ethereum
 
+The JSON-RPC references: https://github.com/hyperledger/fabric-sdk-java
 
 
 ### HyperLedger Fabric
 
-
+Java SDK references: https://github.com/hyperledger/fabric-sdk-java
 
 ### NEM
 
