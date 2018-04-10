@@ -60,11 +60,11 @@ Operate for HyperLedger Fabric, Ethereum (test nodes), Nem (test nodes) and Mult
 Provision of basic blockchain network for HyperLedger Fabric, Ethereum, Nem and Multichain.
 
 
-Phase 2:
+### Phase 2:
 
 Provision of more complext blockchain network for HyperLedger Fabric, Ethereum, Nem and Multichain.
 
-Phase 3:
+### Phase 3:
 
 Add more statistic charts for HyperLedger Fabric, Ethereum, Nem and Multichain (User Enhancement experiences)
 
