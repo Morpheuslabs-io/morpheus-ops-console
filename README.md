@@ -45,6 +45,14 @@ MultiChain is compatible with any API library developed for Bitcoin Core. Multic
 
 ## Blockchain Operation Console Functions
 
+The blockchain Operation Console funcitons will be implemented in phases.
+
+Phase 1:
+
+Phase 2:
+
+Phase 3:
+
 
 
 
