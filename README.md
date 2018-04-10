@@ -40,6 +40,7 @@ NEM API references: https://nemlibrary.com/documentation/architecture/
 
 ### Multichain
 
+MultiChain is compatible with any API library developed for Bitcoin Core. Multichain API references: https://www.multichain.com/developers/json-rpc-api/
 
 ## Blockchain Operation Console Functions
 
