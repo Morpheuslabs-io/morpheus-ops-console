@@ -34,6 +34,10 @@ The JSON-RPC references: https://github.com/hyperledger/fabric-sdk-java
 
 Java SDK references: https://github.com/hyperledger/fabric-sdk-java
 
+### HyperLedger Composer
+
+HyperLedger Composer API references: https://hyperledger.github.io/composer/latest/api/api-doc-index
+
 ### NEM
 
 NEM API references: https://nemlibrary.com/documentation/architecture/
