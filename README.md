@@ -51,11 +51,22 @@ MultiChain is compatible with any API library developed for Bitcoin Core. Multic
 
 The blockchain Operation Console funcitons will be implemented in phases.
 
-Phase 1:
+### Phase 1:
+
+Explorer for HyperLedger Fabric, Ethereum, Nem and Multichain.
+
+Operate for HyperLedger Fabric, Ethereum (test nodes), Nem (test nodes) and Multichain.
+
+Provision of basic blockchain network for HyperLedger Fabric, Ethereum, Nem and Multichain.
+
 
 Phase 2:
 
+Provision of more complext blockchain network for HyperLedger Fabric, Ethereum, Nem and Multichain.
+
 Phase 3:
+
+Add more statistic charts for HyperLedger Fabric, Ethereum, Nem and Multichain (User Enhancement experiences)
 
 
 
