@@ -42,6 +42,8 @@ HyperLedger Composer API references: https://hyperledger.github.io/composer/late
 
 NEM API references: https://nemlibrary.com/documentation/architecture/
 
+NEM Business Use Cases: https://nem.io/enterprise/use-cases/
+
 
 ### Multichain
 
