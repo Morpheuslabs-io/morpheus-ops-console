@@ -4,11 +4,11 @@
 
 
 # BLOCKCHAIN OPERATION CONSOLE
-The Operations console aggregates the operational activities required to manage the Blockchain network provisioned on the platform. The operational activities include Self-provisioning, monitoring health and membership management of Blockchain network. It will be used by Blockchain Network Owners, Auditors, and member operators.
+The Operation Console aggregates the operational activities required to manage the Blockchain network provisioned on the platform. The operational activities include self-provisioning, health monitoring and membership management of Blockchain network. It will be used by organization admin, platform admin, auditors, and platform usets.
 
 ## Functional Principles
 Provide access integration to:
-  - Monitoring capabilities for Blockchain network that includes health status, block activities, log files, etc
+  - Monitoring capabilities for Blockchain network that shows health status, block activities, log files, etc
   - Membership management capabilities of the Blockchain network
   - Self-provisioning capabilities for the Blockchain network nodes
   - Auditing capabilities of the Blockchain network
@@ -64,7 +64,7 @@ Provision of basic blockchain network for HyperLedger Fabric, Ethereum, Nem and 
 
 ### Phase 2:
 
-Provision of more complext blockchain network for HyperLedger Fabric, Ethereum, Nem and Multichain.
+Provision of more complex blockchain network for HyperLedger Fabric, Ethereum, Nem and Multichain.
 
 ### Phase 3:
 
